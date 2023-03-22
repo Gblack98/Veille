@@ -1,0 +1,20 @@
+Yann LeCun 
+
+Yann Le Cun, né le 8 juillet 1960 en Île de France ( France), est un chercheur en intelligence artificielle et vision artificielle français. Il est considéré comme l'un des inventeurs du deep Learning. Il reçoit le prix Turing 2018, le 27 mars 2019, partagé avec Yoshua Bengio et Geoffrey Hinton.
+Il est professeur à l'Université de New York, où il est directeur du Center for Data Science et Silver Professor of Computer Science, Neural Science, and Data Science. Il est surtout connu pour ses travaux dans les domaines de la vision par ordinateur et du traitement du langage naturel. Il est également un père fondateur du domaine des réseaux de neurones convolutifs (CNN) et directeur de Facebook AI Research (FAIR).
+
+Réseau de neurones à convolution
+
+En apprentissage automatique, un réseau de neurones convolutifs ou réseau de neurones à convolution (en anglais CNN ou ConvNet pour convolutional neural networks) est un type de réseau de neurones artificiels acycliques (feed-forward), dans lequel le motif de connexion entre les neurones est inspiré par le cortex visuel des animaux. Les neurones de cette région du cerveau sont arrangés de sorte qu'ils correspondent à des régions qui se chevauchent lors du pavage du champ visuel. 
+
+Vision par ordinateur
+
+La vision par ordinateur est un domaine de l'intelligence artificielle (IA) qui permet aux ordinateurs et aux systèmes de dériver des informations significatives à partir d'images numériques, de vidéos et d'autres entrées visuelles, et de prendre des mesures ou de faire des recommandations sur la base de ces informations. Si l'intelligence artificielle permet aux ordinateurs de penser, la vision par ordinateur leur permet de voir, d'observer et de comprendre.
+
+
+Traitement du langage naturel ou NLP (  Natural Language Processing )
+
+Le natural language processing (NLP), ou traitement automatique des langues (TALN), est une branche de l’intelligence artificielle qui s’attache à donner la capacité aux machines de comprendre, générer ou traduire le langage humain tel qu’il est écrit et/ou parlé. Les chatbots figurent par parmi les logiciels de NLP les plus populaires à l'image de ChaGPT. Autres applications de NLP célèbres : les assistants vocaux Alexa, Google Home ou encore Siri.
+
+Source: wikipédia, Le Journal du Net, IBM, ChaGPT
+
